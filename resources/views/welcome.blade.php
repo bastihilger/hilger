@@ -14,7 +14,7 @@ $links = [
     ],
     [
         'intro' => 'and on',
-        'url' => 'https://bsky.app/profile/bastihilger.bsky.social',
+        'url' => 'https://bsky.app/profile/hilger.io',
         'icon' => '🔵 ☁️',
         'title' => 'Bluesky',
     ],
