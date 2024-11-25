@@ -38,7 +38,7 @@ $links = [
         <div class="flex h-dvh items-center justify-center px-6 py-8">
             <div class="flex flex-col gap-12 justify-center items-center w-full max-w-screen-sm text-center">
                 <div>
-                    <p class="text-3xl">👋</p>
+                    <p class="text-3xl">🤘</p>
                     <br>
                     <p>Hi, my name is Sebastian Hilger</p>
                 </div>
