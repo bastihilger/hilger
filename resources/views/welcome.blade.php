@@ -4,7 +4,7 @@ $links = [
         'intro' => 'I\'m co-owner at',
         'url' => 'https://kraenk.de',
         'icon' => '🙂 💼',
-        'title' => 'Kraenk Visuell',
+        'title' => 'KraenkVisuell',
     ],
     [
         'intro' => 'you can find me on',
