@@ -40,7 +40,7 @@ $links = [
                 <div>
                     <p class="text-3xl">👋</p>
                     <br>
-                    <p>Hi! My name is Sebastian Hilger</p>
+                    <p>Hi, my name is Sebastian Hilger</p>
                 </div>
 
                 <div class="grid gap-8">
