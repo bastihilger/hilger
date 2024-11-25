@@ -30,6 +30,12 @@ $links = [
 
         <link rel="icon" type="image/png" href="/favicon.png">
 
+        @production
+            <!-- Fathom - beautiful, simple website analytics -->
+            <script src="https://cdn.usefathom.com/script.js" data-site="MCLFGCJH" defer></script>
+            <!-- / Fathom -->
+        @endproduction
+
         <title>Sebastian Hilger's Homepage</title>
 
         @vite(['resources/css/app.css', 'resources/js/app.js'])
