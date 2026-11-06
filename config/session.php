@@ -116,6 +116,9 @@ return [
 
     'lottery' => [2, 100],
 
+    // Serialize session data as JSON instead of PHP objects.
+    'serialization' => 'json',
+
     /*
     |--------------------------------------------------------------------------
     | Session Cookie Name
